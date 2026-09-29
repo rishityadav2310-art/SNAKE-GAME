@@ -1,0 +1,19 @@
+snake-game-python/
+│
+├── .gitignore
+├── LICENSE
+├── README.md
+├── STATEMENT.md
+├── RESULTS.md
+├── requirements.txt
+├── main.py
+│
+├── src/
+│   ├── __init__.py
+│   ├── game.py
+│   ├── snake.py
+│   └── food.py
+│
+└── tests/
+    ├── __init__.py
+    └── test_game.py
